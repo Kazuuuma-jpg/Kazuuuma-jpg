@@ -3,9 +3,11 @@
 ###
 
 <div align="center">
-  <img height="200" src="https://s1.ezgif.com/tmp/ezgif-1668b637172d0f.gif" />
- </div>
- 
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31wbur6jy5r245fjlq1mshj2j2jlva&height=200" alt="Spotify Recently Played" />
+  <img width="20" />
+  <img height="200" src="URL_RAW_GIF_ANDA" alt="Nezuko GIF" />
+</div>
+
 ###
 
 <p align="left">Hi👋 , My name is Dewangga Nugroho Anwar, I have a Bachelor of Information Systems from the University of Bengkulu | Indonesia</p>
