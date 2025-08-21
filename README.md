@@ -45,6 +45,9 @@
   <a href="https://wa.me/083846736458" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="whatsapp logo"  />
   </a>
+      <a href="[https://www.instagram.com/kaz_uuuuma?igsh=d2RoaTVtam92bHUy](https://www.instagram.com/jokisisteminformasi?igsh=c29oaW1scW1mNjl4)" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
+  </a>
 </div>
 
 ###
