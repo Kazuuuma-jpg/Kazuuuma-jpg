@@ -1,6 +1,6 @@
-![Dewangga](pic/github-header-banner.png)
-
 <h1 align="center">Hello World👋</h1>
+
+![Dewangga](pic/b.png)
 
 ###
 
@@ -34,6 +34,9 @@
   <a href="https://www.instagram.com/kaz_uuuuma?igsh=d2RoaTVtam92bHUy" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
   </a>
+    <a href="https://www.instagram.com/jokisisteminformasi?igsh=c29oaW1scW1mNjl4" target="_blank">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="45" height="33" alt="instagram logo"  />
+  </a>
   <a href="https://wa.me/083846736458" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="45" height="33" alt="whatsapp logo"  />
   </a>
@@ -57,9 +60,5 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kazuuuma-jpg/Kazuuuma-jpg/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Kazuuuma-jpg/Kazuuuma-jpg/output/pacman-contribution-graph.svg">
 </picture>
-
-###
-
-<img src="https://raw.githubusercontent.com/Kazuuuma-jpg/Kazuuuma-jpg/output/snake.svg" alt="Snake animation" />
 
 ###
