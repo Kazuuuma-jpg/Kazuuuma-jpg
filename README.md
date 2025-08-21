@@ -12,7 +12,7 @@
 
 ###
 
-<h3 align="left">My Current Skill</h3>
+<h3 align="left">My Current Skill🤖👇</h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">My Social Media</h3>
+<h3 align="left">My Social Media👇</h3>
 
 ###
 
@@ -52,7 +52,7 @@
 
 ###
 
-<h3 align="center">My Current Streak</h3>
+<h3 align="center">My Current Streak🤟</h3>
 
 ###
 
@@ -63,7 +63,7 @@
 
 ###
 
-<h3 align="center">Play Game With Me</h3>
+<h3 align="center">Play Game With Me👊</h3>
 
 ###
 
