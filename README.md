@@ -1,12 +1,5 @@
 <h1 align="center">Hello World👋</h1>
 
-###
-
-<div align="center">
-  <img height="200" src="https://s1.ezgif.com/tmp/ezgif-1668b637172d0f.gif" />
- </div>
- 
-###
 
 <p align="left">Hi👋 , My name is Dewangga Nugroho Anwar, I have a Bachelor of Information Systems from the University of Bengkulu | Indonesia</p>
 
